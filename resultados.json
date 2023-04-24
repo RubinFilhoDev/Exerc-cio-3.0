@@ -1,0 +1,24 @@
+{
+    "id": "8",
+    "nome": "Carla Fernandes",
+    "compras": [
+        {
+            "data": "2022-09-14",
+            "valor": 711.87
+        },
+        {
+            "data": "2022-02-26",
+            "valor": 760.94
+        },
+        {
+            "data": "2022-11-25",
+            "valor": 667.54
+        },
+        {
+            "data": "2022-01-19",
+            "valor": 133.27
+        }
+    ],
+    "total": 2273.62,
+    "media_valor_gasto": 568.405
+}
